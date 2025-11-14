@@ -1,5 +1,5 @@
 # 👥 Profile Slider (JavaScript Day 6)
-**Live Demo:** [Click Here](#)
+**Live Demo:** [Click Here](https://profile-slider-kabeer-hussain.vercel.app)
 
 A clean and responsive **Profile Slider Application** built using **pure JavaScript DOM manipulation**.  
 This slider lets users navigate through multiple profiles with **smooth animations**, **touch support**, and **real-time dynamic updates** — all created without writing a single line of static HTML.
@@ -52,7 +52,7 @@ By building this project, you learn:
 ---
 
 ## 📸 Preview
-*(Add a screenshot or GIF of your Profile Slider once deployed on Vercel)*
+[App Preview!](demo.png)
 
 ---
 
