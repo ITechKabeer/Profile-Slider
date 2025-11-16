@@ -53,7 +53,6 @@ By building this project, you learn:
 
 ## 📸 Preview
 ![App Preview](demo.png)
-
 ---
 
 ## 🛠️ Developer Info
