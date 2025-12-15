@@ -62,5 +62,5 @@ By building this project, you learn:
 📧 **Email:** codealpha0786@example.com  
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
-Made with ❤️ using pure JavaScript
+Made by Kabeer Hussain ❤️ || Mern Stack Learner
 
